@@ -1,10 +1,10 @@
-# Package name
-Package Name
+# Logicus
+λογικός
 <pre>
-  pip install package-name
+  pip install logicus
 </pre>
 Then:
 ```Python
   # Python
-  import package_name
+  import logicus
 ```
